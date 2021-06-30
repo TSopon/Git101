@@ -1,0 +1,76 @@
+{
+ "metadata": {
+  "language_info": {
+   "codemirror_mode": {
+    "name": "ipython",
+    "version": 3
+   },
+   "file_extension": ".py",
+   "mimetype": "text/x-python",
+   "name": "python",
+   "nbconvert_exporter": "python",
+   "pygments_lexer": "ipython3",
+   "version": "3.9.1"
+  },
+  "orig_nbformat": 4,
+  "kernelspec": {
+   "name": "python3",
+   "display_name": "Python 3.9.1 64-bit"
+  },
+  "interpreter": {
+   "hash": "e8003765c298a01de8c427b7c9fe7e53eda3e219910559f6540a413eb544f2a1"
+  }
+ },
+ "nbformat": 4,
+ "nbformat_minor": 2,
+ "cells": [
+  {
+   "cell_type": "code",
+   "execution_count": 4,
+   "metadata": {},
+   "outputs": [
+    {
+     "output_type": "stream",
+     "name": "stdout",
+     "text": [
+      "Hello World Sopon Niyomwan\n"
+     ]
+    }
+   ],
+   "source": [
+    "print(\"Hello World\", end='')\n",
+    "print(\" Sopon Niyomwan\")"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 4,
+   "metadata": {},
+   "outputs": [
+    {
+     "output_type": "stream",
+     "name": "stdout",
+     "text": [
+      "3330032303\n"
+     ]
+    }
+   ],
+   "source": [
+    "def plus(x,y) :\n",
+    "    return x + y\n",
+    "\n",
+    "x = int(input(\"Enter number : \"))\n",
+    "y = int(input(\"Enter number2 : \"))\n",
+    "\n",
+    "print(plus(x,y))"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "metadata": {},
+   "outputs": [],
+   "source": []
+  }
+ ]
+}
